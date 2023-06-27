@@ -327,12 +327,10 @@ button a{
 		margin-top: 2.25rem;
 	}
 
-	.read-more:hover{
-		cursor: pointer;
-	}
 
 	.read-more:hover{
 		background-color: var(--very-dark-blue);
+		cursor: pointer;
 	}
 
 
