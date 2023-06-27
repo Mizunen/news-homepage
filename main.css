@@ -325,8 +325,8 @@ button a{
 
 	.read-more{
 		margin-top: 2.25rem;
-	}
 
+	}
 
 	.read-more:hover{
 		background-color: var(--very-dark-blue);
