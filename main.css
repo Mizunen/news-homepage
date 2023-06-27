@@ -325,7 +325,10 @@ button a{
 
 	.read-more{
 		margin-top: 2.25rem;
+	}
 
+	.read-more:hover{
+		cursor: pointer;
 	}
 
 	.read-more:hover{
